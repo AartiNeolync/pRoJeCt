@@ -1,2 +1,4 @@
 # pRoJeCt
+
+string Part Number = BLB_STB_FIG00005
 INITIAL SITE NAME
